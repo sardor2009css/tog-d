@@ -1,0 +1,111 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 1440px;
+    margin: 0 auto;
+}
+.nav{
+    width: 100%;
+    background-color: rgb(50, 43, 43);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.nav ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+.header2{
+    text-align: center;
+    margin: 114px 0;
+    font-size: 70px;
+    font-weight: 500;
+    
+
+    
+}
+.card2{
+    width: 400px;
+    font-size: 14px;
+    text-align: center;
+    
+    
+    
+   
+
+}
+.card3{
+    width: 400px;
+    font-size: 12px;
+    text-align: center;
+
+}
+.card4{
+    width: 400px;
+    font-size: 16px;
+    text-align: center;
+    
+
+
+
+}
+.card5{
+    width: 400px;
+    font-size: 15px;
+    text-align: center;
+
+}
+.card7{
+    width: 400px;
+   font-size: 15px;
+    text-align: center; 
+ 
+  
+
+}
+.text{
+    font-size: 30px;
+}
+.menu{
+    font-size:30px ;
+}
+.tex{
+    font-size: 30px;
+}
+.men{
+    font-size: 30px;
+}
+.text2{
+    font-size: 30px;
+}
+.text6{
+    font-size: 30px;
+}
+.men3{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.navigator{
+    width: 100%;
+    background-color: rgb(50, 43, 43);
+    color: rgb(247, 247, 247);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navigator ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+
